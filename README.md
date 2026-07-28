@@ -2,8 +2,6 @@
 
 ### A budding Java Full Stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-nalwade-1&label=Profile views&color=0e75b6&style=flat" alt="kunal-nalwade-1" /> </p>
-
 - 🌱 I'm currently learning **DSA & Java full stack**
 
 - 👯 I'm looking to collaborate on **Open Source & Java Projects**
